@@ -1,0 +1,99 @@
+body{
+    background-color: rgba(87, 22, 249, 0.784);
+}
+section {
+    border-radius: 10%;
+    position: relative;
+    width: 580px;
+    height: 95%;
+    margin: 15px;
+     padding: 120px;
+    height: 90vh;
+    right: -400px;
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 120% solid pink;
+    justify-content: center;
+}
+section h1{
+    top: -450px;
+    margin-top: -20%;
+    top: 100px;
+    color: rgb(19, 19, 216);
+}
+section i{
+text-align: center;
+    color: blue;
+    position: relative;;
+}
+
+ h6{
+    color: rgb(7, 7, 15);
+    text-align: center;
+text-align: none;
+top: -250px;
+
+}
+section .part{
+    position: relative;
+    width: 120px;
+    height: 25%;
+    margin: 180px;
+    border-radius: 15%;
+     padding: 20px;
+     border-width: 28px solid #fff;
+top: -190px;
+right: 200px;
+    background-color:#fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+section .part1{   
+     border-radius: 10%;
+    position: relative;
+    width: 120px;
+    height: 25%;
+    margin: 25px;
+     padding: 50px;
+top: -110px;
+left: 145px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input{
+    margin: 5px;
+    padding: 135px;
+}
+section .pat{
+    border-radius: 10%;
+    position: relative;
+    width: 120px;
+    height: 25%;
+    margin: 15px;
+    padding: 50px;
+    top: -95px;
+    left:100px;
+    margin: auto;
+    background-color:#fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.formulaire{
+left: 200%;
+    height: 25%;
+    margin: 40px;
+    padding: 70px;
+    top: -200px;
+    position: relative;
+    right: 680px;
+    align-items: center;
+
+
+}
+
